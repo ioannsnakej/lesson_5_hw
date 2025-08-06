@@ -19,3 +19,5 @@
 Проверил версию и запустил
 <img width="1147" height="838" alt="image" src="https://github.com/user-attachments/assets/119a35d2-3255-4390-874d-bfbf6a5da4ec" />
 
+Скорректирвоал /etc/mongod.conf
+<img width="1540" height="824" alt="image" src="https://github.com/user-attachments/assets/467349b0-e492-49e2-a932-a27a041a2e7d" />
